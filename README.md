@@ -23,3 +23,9 @@ I HAVE UPLOADED THE SCREEN SHOT OF THE PROJECT PROTOTYPE FROM FIGMA.
 <img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/2fb30655-e421-4392-8a9e-18d52be2d49b" />
 I HAVE UPLOADED THE SCREEN SHOT OF THE PROJECT DESIGN FROM FIGMA
 
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/cd467a25-49ab-4859-a3e3-3808b535e27a" />
+I HAVE UPLOADED THE SCREENSHOT OF THE AI CREATED WEB PAGE 
+
+
+
+
