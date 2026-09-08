@@ -16,3 +16,6 @@ The proposed solution is a user-friendly expense management application that hel
 The system allows users to enter their expenses with details such as amount, category, date, and description.
 These records are stored in a database and can be viewed whenever required. The application calculates total expenses and compares 
 them with the user’s monthly budget
+
+<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/5d1b7c26-732d-477a-8984-608f2258b7cd" />
+I HAVE UPLOADED THE SCREEN SHOT OF THE PROJECT FROM FIGMA.
