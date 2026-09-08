@@ -18,4 +18,8 @@ These records are stored in a database and can be viewed whenever required. The 
 them with the user’s monthly budget
 
 <img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/5d1b7c26-732d-477a-8984-608f2258b7cd" />
-I HAVE UPLOADED THE SCREEN SHOT OF THE PROJECT FROM FIGMA.
+I HAVE UPLOADED THE SCREEN SHOT OF THE PROJECT PROTOTYPE FROM FIGMA.
+
+<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/2fb30655-e421-4392-8a9e-18d52be2d49b" />
+I HAVE UPLOADED THE SCREEN SHOT OF THE PROJECT DESIGN FROM FIGMA
+
