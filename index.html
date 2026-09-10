@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Expense Tracker</title>
+  <!-- Link to external CSS -->
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav>
+    <button onclick="showPage('loginPage')">Login</button>
+    <button onclick="showPage('dashboardPage')">Dashboard</button>
+    <button onclick="showPage('addExpensePage')">Add Expense</button>
+    <button onclick="showPage('expenseHistoryPage')">Expense History</button>
+    <button onclick="showPage('budgetPage')">Budget Management</button>
+  </nav>
+
+  <!-- Login / Registration Page -->
+  <div id="loginPage" class="page active">
+    <h2>Login / Registration</h2>
+    <label for="username">Username or Email</label>
+    <input type="text" id="username" name="username">
+
+    <label for="password">Password</label>
+    <input type="password" id="password" name="password">
+
+    <button class="btn">Login</button>
+    <p>Don't have an account? <a href="#">Register here</a></p>
+  </div>
+
+  <!-- Dashboard Page -->
+  <div id="dashboardPage" class="page">
+    <h2>Dashboard</h2>
+    <p><strong>Total Monthly Budget:</strong> $1000</p>
+    <p><strong>Total Expenses:</strong> $400</p>
+    <p><strong>Remaining Budget:</strong> $600</p>
+
+    <h3>Recent Expenses</h3>
+    <ul>
+      <li>Food - $20 (09/08/2026)</li>
+      <li>Transport - $15 (09/07/2026)</li>
+    </ul>
+
+    <button class="btn">Add Expense</button>
+    <button class="btn">
