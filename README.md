@@ -26,6 +26,10 @@ I HAVE UPLOADED THE SCREEN SHOT OF THE PROJECT DESIGN FROM FIGMA
 <img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/cd467a25-49ab-4859-a3e3-3808b535e27a" />
 I HAVE UPLOADED THE SCREENSHOT OF THE AI CREATED WEB PAGE 
 
+https://spandana157.github.io/skill-lab-project/
+use can visit the live working website 
+
+
 
 
 
